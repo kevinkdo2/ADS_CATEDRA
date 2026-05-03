@@ -1,0 +1,7 @@
+credenciales que ya estan en la bd 
+
+Super admin
+admin@medcare.com / Admin1234!
+
+Doctor
+doctor@medcare.com / Doctor1234!
