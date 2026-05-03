@@ -9,3 +9,6 @@
 | David Alessandro Sibrián Castillo | SC252951 |
 | Christopher Enrique Villacorta Molina | VM252949 |
 | Marcelo Augusto Zelaya Colocho | ZC253009 |
+
+
+Recomendamos descargar el sql, y luego importarlo en phpmyadmin
