@@ -12,3 +12,6 @@
 
 
 Recomendamos descargar el sql, y luego importarlo en phpmyadmin
+
+Crendenciales del sistema estan en un archivo txt
+
